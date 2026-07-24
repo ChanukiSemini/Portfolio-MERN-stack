@@ -4,7 +4,7 @@ function Home() {
   return (
     <section className="hero">
       <div className="hero-avatar">
-        <img src="/my-photo.png" alt="Chanuki Hettiarachchi" className="hero-avatar-img" />
+        <img src={`${import.meta.env.BASE_URL}my-photo.png`} alt="Chanuki Hettiarachchi" className="hero-avatar-img" />
       </div>
       <div className="hero-content">
         <p className="hero-greeting">HELLO, I'M</p>
