@@ -13,15 +13,6 @@ mern-portfolio/
 ├── client/     React front-end (Vite)
 └── server/     Express + MongoDB back-end API
 ```
-
----
-
-## 1. Prerequisites
-
-Make sure the following are installed:
-1. **Node.js** (v18 or later) — https://nodejs.org
-2. **MongoDB Community Server** & **MongoDB Compass** (for local database) — https://www.mongodb.com/try/download/community
-
 ---
 
 ## 2. Run the project locally
