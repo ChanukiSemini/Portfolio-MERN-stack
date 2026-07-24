@@ -1,6 +1,4 @@
-// Central place for the backend API base URL.
-// In development, Vite proxies "/api" requests to http://localhost:5000 (see vite.config.js).
-// In production, set VITE_API_URL in a .env file to your deployed backend URL.
+
 const API_BASE = import.meta.env.VITE_API_URL || "/api";
 
 async function handleResponse(res) {

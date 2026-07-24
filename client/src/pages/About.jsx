@@ -6,7 +6,7 @@ function About() {
         <p>
           I am a passionate Computer Science student and full-stack developer with a
           love for meaningful digital products. My experience spans front-end
-          development, backend APIs, and product design. I enjoy solving complex user
+          development, backend APIs and product design. I enjoy solving complex user
           problems through clean code and intuitive interfaces.
         </p>
       </div>
